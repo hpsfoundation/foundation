@@ -1,20 +1,18 @@
-Cloud Native Computing Foundation (“CNCF”) Charter
+High Performance Computing Foundation ("HPSF") Charter
 
 The Linux Foundation
 
-Effective Nov 6 2015 / Updated September 14 2023
+Effective May 12, 2024 / Updated May 12, 2024 
 
 #### 1. Mission of the Cloud Native Computing Foundation.
 
-The Foundation’s mission is to make cloud native computing ubiquitous. The CNCF Cloud Native Definition v1.0 says:
+HPSF's mission is to build, promote, and advance a portable core software stack for HPC by increasing adoption, lowering barriers to contribution, and supporting development efforts.
 
-Cloud native technologies empower organizations to build and run scalable applications in modern, dynamic environments such as public, private, and hybrid clouds. Containers, service meshes, microservices, immutable infrastructure, and declarative APIs exemplify this approach.
+HPC software empowers organizations to run large-scale computational applications on conventional and accelerated systems of any size. From laptops, to HPC clusters, to clouds. HPSF aims to make accelerated computing ubiquitous, and its software components enable systems that can run portably across accelerated architectures with good performance.
 
-These techniques enable loosely coupled systems that are resilient, manageable, and observable. Combined with robust automation, they allow engineers to make high-impact changes frequently and predictably with minimal toil.
+HPSF seeks to drive adoption of HPC software by fostering and sustaining an ecosystem of open source, vendor-neutral projects. We democratize state-of-the-art packages to make them widely known in and outside of traditional HPC communities.
 
-The Cloud Native Computing Foundation seeks to drive adoption of this paradigm by fostering and sustaining an ecosystem of open source, vendor-neutral projects. We democratize state-of-the-art patterns to make these innovations accessible for everyone.
-
-#### 2. Role of the CNCF.
+#### 2. Role of the HPSF.
 
 The CNCF will serve a role in the open source community responsible for:
 
