@@ -93,22 +93,23 @@ The HPSF shall be composed of Premier, General, and Associate (Academic, Non-Pro
 
 	-	i. Member Representatives consist of:
 
-		-	a. one representative appointed from each Platinum member; and
-		-	b. the Gold and Silver member elected representatives (if any)
+		-	a. one representative appointed from each Premium member;
+
+		-	b. representatives elected by the General members numbering one for every two Premium members, but no less than three;
 
 	-	ii. Technical Community Representatives consist of:
 
-		-	a. the TAC Chair, and
+		-	a. representatives elected by the Graduated and Incubated projects numbering one for every two Premium members, but no less than three; and
 
-		-	b. two Committers elected from the CNCF Projects under a process approved by the then-serving Governing Board.
+		-	b. the TAC Chair.
 
-	-	iii. The Governing Board may extend a Platinum membership at the Silver Membership Scale rates on a year-by-year basis for up to 5 years to startup companies with revenues less than \$50 million that are deemed strategic technology contributors by the Governing Board.
+	-	iii. The Governing Board may extend a Premium membership at the General Membership Scale rates on a year-by-year basis for up to 5 years to startup companies with revenues less than \$50 million that are deemed strategic technology contributors by the Governing Board.
 
 	-	iv. Only one person from a group of Related Companies may serve as a Member Representative. Only one person from a group of Related Companies may serve as a Technical Community Representative.
 
 -	(d) Responsibilities:
 
-	-	i. approve a budget directing the use of funds raised from all sources of revenue to be used for technical, marketing or community investments that advance the mission of the CNCF;
+	-	i. approve a budget directing the use of funds raised from all sources of revenue to be used for technical, marketing or community investments that advance the mission of the HPSF;
 
 	-	ii. elect a Chair of the Governing Board to preside over meetings, authorize expenditures approved by the budget and manage any day-to-day operations;
 
@@ -124,9 +125,9 @@ The HPSF shall be composed of Premier, General, and Associate (Academic, Non-Pro
 
 	-	vi. oversee operations and qualification efforts;
 
-	-	vii. establish and oversee any committees created to drive the mission of CNCF;
+	-	vii. establish and oversee any committees created to drive the mission of HPSF;
 
-	-	viii. establish and execute a brand compliance program, if any, based on the CNCF requirements, which may include a certification test, to use the brand marks established by the TOC;
+	-	viii. establish and execute a brand compliance program, if any, based on the HPSF requirements, which may include a certification test, to use the brand marks established by the TOC;
 
 	-	ix. adopt guidelines or a policy for use of the trademark; and
 
@@ -134,7 +135,7 @@ The HPSF shall be composed of Premier, General, and Associate (Academic, Non-Pro
 
 -	(e) The revenues collected by the project shall be used for the following purposes:
 
-	-	i. The marketing, promotion and expansion of deployment and use of the "Included in CNCF" projects.
+	-	i. The marketing, promotion and expansion of deployment and use of the "Included in HPSF" projects.
 	-	ii. The staffing of key resources to build, run and manage project productivity infrastructure.
 	-	iii. The promotion of container-based computing principles as outlined and implementation thereof via the CNCF's projects.
 
