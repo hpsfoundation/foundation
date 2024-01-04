@@ -1,92 +1,83 @@
-High Performance Computing Foundation ("HPSF") Charter
+# High Performance Computing Foundation ("HPSF") Charter
 
 The Linux Foundation
 
-Effective May 12, 2024 / Updated May 12, 2024 
+Effective May 12, 2024 / Updated May 12, 2024
 
-#### 1. Mission of the Cloud Native Computing Foundation.
+## 1. Mission of the High Performance Software Foundation
 
-HPSF's mission is to build, promote, and advance a portable core software stack for HPC by increasing adoption, lowering barriers to contribution, and supporting development efforts.
+The Foundation's mission is to constantly improve the quality and open availability of software for High Performance Computing through open collaboration. Through a series of technical projects, HPSF aims to build, promote, and advance a portable core software stack for HPC by increasing adoption, lowering barriers to contribution, and supporting development efforts.
 
-HPC software empowers organizations to run large-scale computational applications on conventional and accelerated systems of any size. From laptops, to HPC clusters, to clouds. HPSF aims to make accelerated computing ubiquitous, and its software components enable systems that can run portably across accelerated architectures with good performance.
+HPC software empowers organizations to run large-scale computational applications on conventional and accelerated systems of any size. From laptops, to HPC clusters, to clouds. HPSF aims to make accelerated computing ubiquitous, and its projects enable systems that run portably across a diverse range of architectures with good performance.
 
-HPSF seeks to drive adoption of HPC software by fostering and sustaining an ecosystem of open source, vendor-neutral projects. We democratize state-of-the-art packages to make them widely known in and outside of traditional HPC communities.
+## 2. Role of the HPSF.
 
-#### 2. Role of the HPSF.
-
-The CNCF will serve a role in the open source community responsible for:
+The HPSF will serve a role in the open source community responsible for:
 
 -	(a) Stewardship of the projects
 
-	-	i. Ensuring that the technologies are available to the community and free of partisan influence
+	-	i. Ensuring that technologies are available to the community and free of partisan influence
 
-	-	ii. Ensure that the technologies' brand (trademark and logo) is being cared for and used appropriately by members of the community, with a specific emphasis on uniform user experience and high levels of application compatibility
+	-	ii. Ensure that the technologies' brands (trademarks and logos) are cared for and used appropriately by members of the community
 
 -	(b) Fostering the growth and evolution of the ecosystem
 
-	-	i. Evaluating which additional technologies should be added to meet the vision of cloud native applications, and working to encourage the community to deliver them, and integrate them if and only if they advance the general agenda
+	-	i. Evaluating which additional technologies should be added to HPSF and working to encourage the community to deliver them, and integrate them if and only if they advance the general agenda
 
-	-	ii. Providing a way to foster common technical standards across the various pieces
+	-   ii. Providing services that ease the task of maintaining and testing HPC projects across platforms
 
--	(c) Promotion of the underlying technologies, and approach to application definition and management, including: events and conferences, marketing (SEM, direct marketing), training courses and developer certification
+	-	iii. Promoting performance portability over time to take advantage of new hardware developments without sacrificing maintainability
 
--	(d) Serve the community by making the technology accessible and reliable.
+-	(c) Promotion of the underlying technologies including: events and conferences, marketing, training courses and developer certification, and workforce development activities
 
-	-	i. The foundation seeks to offer up a fully integrated and qualified build of each of the constituent pieces, on a well-defined cadence across the reference architecture.
+-   (d) Collaborate with other communities like OpenSSF and CNCF to:
 
-#### 3. Values.
+    - i. address supply chain security concerns and promote standard security practices among member projects
 
-The CNCF will strive to adhere to the following principles:
+    - ii. increase interoperability of HPC and Cloud software
 
--	(a) Fast is better than slow. The foundation enables projects to progress at high velocity to support aggressive adoption by users.
+## 3. Values.
 
--	(b) Open. The foundation is open and accessible, and operates independently of specific partisan interests. The foundation accepts all contributors based on the merit of their contributions, and the foundation's technology must be available to all according to open source values. The technical community and its decisions shall be transparent.
+The HPSF will strive to adhere to the following principles:
 
--	(c) Fair. The foundation will avoid undue influence, bad behavior or "pay-to-play" decision-making.
+-	(a) Open. The foundation is open and accessible, and operates independently of specific partisan interests. The foundation accepts all contributors based on the merit of their contributions, and the foundation's technology must be available to all according to open source values. The technical community and its decisions shall be transparent.
 
--	(d) Strong technical identity. The foundation will achieve and maintain a high degree of its own technical identity that is shared across the projects.
+-	(b) Fair. The foundation will avoid undue influence, bad behavior or "pay-to-play" decision-making.
 
--	(e) Clear boundaries. The foundation shall establish clear goals, and in some cases, what the non-goals of the foundation are to allow projects to effectively co-exist, and to help the ecosystem understand where to focus for new innovation.
+-   (c) Community stewardship. We believe that ultimately, sustainability of projects comes from a broadly distributed user and contributor base. Projects should strive to broaden adoption and to develop a diverse contributor base.
 
--	(f) Scalable. Ability to support all scales of deployment, from small developer centric environments to the scale of enterprises and service providers. This implies that in some deployments some optional components may not be deployed, but the overall design and architecture should still be applicable.
+-   (d) Inclusivity. Broadly successful and useful technologies require different perspectives and skill sets, which can only be heard in a welcoming and respectful environment.
 
--	(g) Platform agnostic. The specifications developed will not be platform specific such that they can be implemented on a variety of architectures and operating systems.
+-	(e) Constant evolution. The HPC ecosystem has always been driven by external technology developments and societal needs. As high performance software becomes more prevalent in areas outside of traditional HPC, HPC software must constantly evolve with these trends to continue to grow over time.
 
-#### 4. Membership.
+-	(f) Platform agnostic. Projects should strive to build software that works and performs well on a diverse range of hardware architectures and platform scales. HPC software is as much used (or more) on laptops and workstations as on the world's largest supercomputers.
 
-The CNCF shall be composed of Platinum, Gold, Silver, End User, Academic and Non-Profit member participants. All member applications will be reviewed by the Linux Foundation, who will decide whether that applicant is to be classified as an end user, academic/non-profit, or vendor for purposes of CNCF membership.
 
--	(a) Platinum members shall be entitled to:
+## 4. Membership.
 
-	-	i. Appoint one (1) representative to the CNCF Governing Board.
+The HPSF shall be composed of Premier, General, and Associate (Academic, Non-Profit, and Government) member participants. All member applications will be reviewed by the Linux Foundation, who will decide whether that applicant can be classified as academic/non-profit/government for purposes of HPSF membership.
+
+-	(a) Premier members shall be entitled to:
+
+	-	i. Appoint one (1) representative to the HPSF Governing Board (GB).
 
 	-	ii. Appoint one (1) representative as a voting member in any subcommittees or activities of the Governing Board.
 
 	-	iii. Enjoy most prominent placement in displays of membership including on the website.
 
-	-	iv. If the member is also an approved End User, appoint one (1) representative to the End User TAB.
+-	(b) General members shall be entitled to:
 
--	(b) Gold members shall be entitled to:
-
-	-	i. Appoint one (1) representative to the CNCF Governing Board per every five (5) Gold members, up to three (3) maximum Gold representatives.
-
-	-	ii. If the members are also approved End Users, elect one (1) representative to the End User TAB for every five (5) Gold End User members, up to three (3) maximum Gold representatives.
-
--	(c) Silver members shall be entitled to:
-
-	-	i. Appoint one (1) representative to the CNCF Governing Board per every ten (10) Silver members, up to three (3) maximum Silver representatives.
-
-	-	ii. If the members are also approved End Users, elect one (1) representative to the End User TAB for every ten (10) Silver End User members, up to three (3) maximum Silver representatives.
-
--	(d) Academic and Non-Profit members: The Academic and Non-Profit category of participation is limited to academic and non-profit institutions respectively and requires approval by the Governing Board. Academic and Non-Profit members shall be entitled to identify their organization as members supporting the mission of CNCF and any other rights or benefits as determined by the Governing Board.
+	-	i. Participate in the election of member representatives of the GB.
+	
+-	(c) Associate members: The Academic and Non-Profit category of participation is limited to academic and non-profit institutions respectively and requires approval by the Governing Board. Academic and Non-Profit members shall be entitled to identify their organization as members supporting the mission of HPSF, are eligible to participate in the HPSF Technical Advisory Committee, and may have other rights or benefits as determined by the Governing Board.
 
 #### 5. Governing Board
 
--	(a) The CNCF Governing Board will be responsible for marketing and other business oversight and budget decisions for the CNCF. The Governing Board does not make technical decisions for the CNCF, other than working with the TOC to set the overall scope for the CNCF as described in the cloud native definition from Section 1.
+-	(a) The HPSF Governing Board will be responsible for marketing and other business oversight and budget decisions for the HPSF. The Governing Board does not make technical decisions for the HPSF, other than working with the TAC to set the overall scope for the HPSF as described in the cloud native definition from Section 1.
 
 -	(b) The Governing Board will address business matters including:
 
-	-	i. adopting the overall scope for the CNCF in consultation with the TOC;
+	-	i. adopting the overall scope for the HPSF in consultation with the TAC;
 
 	-	ii. defining and enforcing policy regarding the use of the trademarks and copyrights of the foundation;
 
@@ -107,7 +98,7 @@ The CNCF shall be composed of Platinum, Gold, Silver, End User, Academic and Non
 
 	-	ii. Technical Community Representatives consist of:
 
-		-	a. the TOC Chair, and
+		-	a. the TAC Chair, and
 
 		-	b. two Committers elected from the CNCF Projects under a process approved by the then-serving Governing Board.
 
@@ -147,7 +138,7 @@ The CNCF shall be composed of Platinum, Gold, Silver, End User, Academic and Non
 	-	ii. The staffing of key resources to build, run and manage project productivity infrastructure.
 	-	iii. The promotion of container-based computing principles as outlined and implementation thereof via the CNCF's projects.
 
-#### 6. Technical Oversight Committee ("TOC")
+## 6. Technical Oversight Committee ("TOC")
 
 -	(a) Mandate. The TOC is expected to facilitate driving neutral consensus for:
 
@@ -249,13 +240,13 @@ The CNCF shall be composed of Platinum, Gold, Silver, End User, Academic and Non
 
 		-	d. identifying immediate gaps that require further investigation
 
-#### 7. End User Community
+## 7. End User Community
 
 -	(a) End User Members in CNCF shall be entitled to coordinate and drive activities important to users of CNCF as consumers for which CNCF was designed. Any End User organization that is a CNCF Member or a CNCF End User Supporter(each an "End User Participant) may participate. The End User Participants are expected to help provide input to the Technical Advisory Board and CNCF community on topics relevant to users.
 
 -	(b) End User Community Members will be approved by CNCF.
 
-#### 8. End User Technical Advisory Board ("End User TAB").
+## 8. End User Technical Advisory Board ("End User TAB").
 
 -	(a) Purpose and Duties: The End User TAB will serve as the voice of End Users in the CNCF community, advance topics of concern to End Users, and raise awareness about the needs and perspectives of end users. More specifically, the goals and responsibilities of the End User TAB are to:
 
@@ -308,7 +299,7 @@ The CNCF shall be composed of Platinum, Gold, Silver, End User, Academic and Non
 
 -	(j) The End User TAB may develop policies and procedures related to nominations, elections, operations, or other matters pertaining to its purpose, scope, and activities so long as such policies and procedures are consistent with this charter.
 
-#### 9. CNCF Projects
+## 9. CNCF Projects
 
 -	(a) It is expected that member companies, and open source community members will bring project assets to the TOC for discussion and inclusion into the CNCF. All such contributions should meet a set criteria created by the TOC and ratified by the Governing Board. The goal is to have an increasing bazaar of projects related to and that integrate with projects already accepted into the CNCF.
 
@@ -346,7 +337,7 @@ The CNCF shall be composed of Platinum, Gold, Silver, End User, Academic and Non
 
 -	(e) New open source projects initiated in CNCF shall complete a project proposal template adopted by the TOC and be approved by the TOC for inclusion in CNCF. The TOC members shall be afforded sufficient time to discuss and review new project proposals. New project proposals shall include details of the roles in the project, the governance proposed for the project and identify alignment with CNCF's role and values.
 
-#### 10. Marketing Committee
+## 10. Marketing Committee
 
 -	(a) Composition: the Marketing Committee will be open to all members to participate. A Chair of the Marketing Committee shall be elected to develop meeting agendas, moderate discussions and help the committee progress against its goals. The Marketing Committee shall seek consensus where possible. Any issues that cannot reach a Rough Consensus in the Marketing Committee shall be referred to the Governing Board.
 
@@ -354,7 +345,7 @@ The CNCF shall be composed of Platinum, Gold, Silver, End User, Academic and Non
 
 -	(c) If the Marketing Committee becomes too large to operate effectively, the Marketing Committee may choose to elect Marketing Board and delegate decision authority to the Marketing Board.
 
-#### 11. IP Policy
+## 11. IP Policy
 
 -	(a) Any project that is added to the CNCF must have ownership of its trademark and logo assets transferred to the Linux Foundation.
 
@@ -370,17 +361,17 @@ The CNCF shall be composed of Platinum, Gold, Silver, End User, Academic and Non
 
 -	(g) If an alternative inbound or outbound license is required for compliance with the license for a leveraged open source project or is otherwise required to achieve the CNCF's mission, the Governing Board may approve the use of an alternative license for inbound or outbound contributions on an exception basis.
 
-#### 12. Antitrust Guidelines
+## 12. Antitrust Guidelines
 
 -	(a) All members shall abide by the requirements for The Linux Foundation set forth in the Linux Foundation Antitrust Policy available at [*https://www.linuxfoundation.org/antitrust-policy*](https://www.linuxfoundation.org/antitrust-policy).
 
 -	(b) All members shall encourage open participation from any organization able to meet the membership requirements, regardless of competitive interests. Put another way, the Governing Board shall not seek to exclude members based on any criteria, requirements or reasons other than those used for all members.
 
-#### 13. Code of Conduct
+## 13. Code of Conduct
 
 -	(a) All participants agree to abide by The Linux Foundation Code of Conduct available at [*https://events.linuxfoundation.org/code-of-conduct*](https://events.linuxfoundation.org/code-of-conduct). The TOC may vote to adopt its own code of conduct for the CNCF community.
 
-#### 14. Related Companies
+## 14. Related Companies
 
 -	(a). Definitions:
 
@@ -398,19 +389,19 @@ The CNCF shall be composed of Platinum, Gold, Silver, End User, Academic and Non
 
 -	(e). Memberships shall be non-transferable, non-salable and non-assignable, except that any Member may transfer its current Membership benefits and obligations to a successor to substantially all of its business and/or assets, whether by merger, sale or otherwise; provided that the transferee agrees to be bound by this Charter and the Bylaws and policies required by Linux Foundation membership.
 
-#### 15. Budget
+## 15. Budget
 
 -	(a) The Governing Board shall approve an annual budget and never commit to spend in excess of funds raised. The budget shall be consistent with the nonprofit mission of The Linux Foundation.
 
 -	(b) The Linux Foundation shall provide regular reports of spend levels against the budget.
 
-#### 16. General & Administrative Expenses
+## 16. General & Administrative Expenses
 
 -	(a) The Linux Foundation shall have custody of any fees, funds and other cash receipts.
 
 -	(b) A General & Administrative (G&A) fee will be applied to funds raised to cover Finance, Accounting and operations. The G&A fee shall equal 9% of CNCF's first \$1,000,000 of gross receipts and 6% of CNCF's gross receipts over \$1,000,000.
 
-#### 17. General Rules and Operations.
+## 17. General Rules and Operations.
 
 The participants in CNCF shall:
 
@@ -428,6 +419,6 @@ The participants in CNCF shall:
 
 -	(g) operate under such rules and procedures as may from time to time be approved by the Governing Board, provided that such rules and procedures shall not be inconsistent with the purpose and policies of the Linux Foundation and shall not be detrimental to the Linux Foundation.
 
-#### 18. Amendments
+## 18. Amendments
 
 This charter may be amended by a two-thirds vote (excluding abstentions) of all Governing Board members, provided that any such amendments shall not be inconsistent with the purpose or policies of the Linux Foundation and shall not be detrimental to the Linux Foundation.
