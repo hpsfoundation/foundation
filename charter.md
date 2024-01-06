@@ -93,17 +93,17 @@ The HPSF shall be composed of Premier, General, and Associate (Academic, Non-Pro
 
 	-	i. Member Representatives consist of:
 
-		-	a. one representative appointed from each Premium member;
+		-	a. one representative appointed by each Premium member;
 
-		-	b. representatives elected by the General members numbering one for every two Premium members, but no less than three;
+		-	b. representatives elected by the General members numbering one for every two Premium members, but no less than three total;
 
 	-	ii. Technical Community Representatives consist of:
 
-		-	a. representatives elected by the Graduated and Incubated projects numbering one for every two Premium members, but no less than three; and
+		-	a. representatives elected by the Graduated and Incubated projects numbering one for every two Premium members, but no less than three total; and
 
 		-	b. the TAC Chair.
 
-	-	iii. The Governing Board may extend a Premium membership at the General Membership Scale rates on a year-by-year basis for up to 5 years to startup companies with revenues less than \$50 million that are deemed strategic technology contributors by the Governing Board.
+	-	iii. The Governing Board may extend a Premium membership at the General Membership Scale rates on a year-by-year basis to companies that are deemed strategic technology contributors by the Governing Board.
 
 	-	iv. Only one person from a group of Related Companies may serve as a Member Representative. Only one person from a group of Related Companies may serve as a Technical Community Representative.
 
@@ -135,9 +135,10 @@ The HPSF shall be composed of Premier, General, and Associate (Academic, Non-Pro
 
 -	(e) The revenues collected by the project shall be used for the following purposes:
 
-	-	i. The marketing, promotion and expansion of deployment and use of the "Included in HPSF" projects.
-	-	ii. The staffing of key resources to build, run and manage project productivity infrastructure.
-	-	iii. The promotion of container-based computing principles as outlined and implementation thereof via the CNCF's projects.
+        -	i. The support and growth of the HPSF community.
+	-	ii. The promotion and expansion of deployment and use of the HPSF projects and their communities.
+	-	iii. The staffing of key resources to build, run and manage project productivity infrastructure.
+	-	iv. Targeted development initiatives to address community needs. 
 
 ## 6. Technical Oversight Committee ("TOC")
 
