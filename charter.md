@@ -127,7 +127,7 @@ The HPSF shall be composed of Premier, General, and Associate (Academic, Non-Pro
 
 	-	vii. establish and oversee any committees created to drive the mission of HPSF;
 
-	-	viii. establish and execute a brand compliance program, if any, based on the HPSF requirements, which may include a certification test, to use the brand marks established by the TOC;
+	-	viii. establish and execute a brand compliance program, if any, based on the HPSF requirements, which may include a certification test, to use the brand marks established by the TAC;
 
 	-	ix. adopt guidelines or a policy for use of the trademark; and
 
@@ -138,43 +138,41 @@ The HPSF shall be composed of Premier, General, and Associate (Academic, Non-Pro
         -	i. The support and growth of the HPSF community.
 	-	ii. The promotion and expansion of deployment and use of the HPSF projects and their communities.
 	-	iii. The staffing of key resources to build, run and manage project productivity infrastructure.
-	-	iv. Targeted development initiatives to address community needs. 
+	-	iv. Targeted development initiatives to address community needs as recommended by the TAC. 
 
-## 6. Technical Oversight Committee ("TOC")
+## 6. Technical Advisory Committee ("TAC")
 
--	(a) Mandate. The TOC is expected to facilitate driving neutral consensus for:
+-	(a) Mandate. The TAC is expected to facilitate the development and the adoption of a neutral consensus for:
 
-	-	i. defining and maintaining the technical vision for the Cloud Native Computing Foundation,
+	-	i. defining and maintaining the technical vision for the High Performance Software Foundation,
 
-	-	ii. approving new projects within the scope for CNCF set by the Governing Board, and creating a conceptual architecture for the projects,
+	-	ii. approving new projects within the scope for HPSF set by the Governing Board, and creating a conceptual architecture for the projects,
 
 	-	iii. aligning projects, removing or archiving projects,
 
-	-	iv. accepting feedback from the end user committee and mapping to projects,
+	- 	iv. creation, alignment and retirement of working groups to address cross-cutting community needs, and
 
-	-	v. aligning interfaces to components under management (code reference implementations before standardizing), and
-
-	-	vi. defining common practices to be implemented across CNCF projects, if any.
+	-	v. defining common practices to be implemented across HPSF projects according to their maturity levels.
 
 -	(b) Composition
 
-	-	i. The TOC shall be composed of eleven (11) members.
+	-	i. The TAC shall be composed of eleven (11) members.
 
-	-	ii. TOC members elected are expected to cover key technical domains: container technologies, operating systems, technical operations, distributed systems, user level application design, etc.
+	-	ii. TAC members elected are expected to cover key technical domains: container technologies, operating systems, technical operations, distributed systems, user level application design, etc.
 
-	-	iii. The Governing Board shall elect six (6) TOC members, the End User Participants shall elect two (2) TOC members, the non-sandbox project maintainers shall elect one (1) TOC member, and the TOC members shall elect an additional two (2) TOC members. Each group is defined as a Selecting Group.
+	-	iii. The Governing Board shall elect six (6) TAC members, the End User Participants shall elect two (2) TAC members, the non-sandbox project maintainers shall elect one (1) TAC member, and the TAC members shall elect an additional two (2) TAC members. Each group is defined as a Selecting Group.
 
-	-	iv. If more than two (2) TOC members would be from the same group of Related Companies, either at the time of election or from a later job change, they will jointly decide who should step down, or if there is no agreement, random lots shall be drawn.
+	-	iv. If more than two (2) TAC members would be from the same group of Related Companies, either at the time of election or from a later job change, they will jointly decide who should step down, or if there is no agreement, random lots shall be drawn.
 
 -	(c) Operating Model
 
-	-	i. The TOC shall select a Chair of the TOC to set agendas and call meetings of the TOC.
+	-	i. The TAC shall select a Chair of the TAC to set agendas and call meetings of the TAC.
 
-	-	ii. The TOC is expected to meet regularly face-to-face to discuss key topical issues.
+	-	ii. The TAC is expected to meet regularly face-to-face to discuss key topical issues.
 
-	-	iii. The TOC may meet virtually as needed to discuss emerging issues. Issues may be raised for TOC review by:
+	-	iii. The TAC may meet virtually as needed to discuss emerging issues. Issues may be raised for TAC review by:
 
-		-	a. any TOC member,
+		-	a. any TAC member,
 
 		-	b. any Governing Board member,
 
@@ -184,55 +182,55 @@ The HPSF shall be composed of Premier, General, and Associate (Academic, Non-Pro
 
 		-	e. a majority vote of the End User TAB.
 
-	-	iv. Transparency. The TOC shall hold regular open TOC meetings and all project-related decisions shall be made in those meetings, on a public mailing list, or on public issues.
+	-	iv. Transparency. The TAC shall hold regular open TAC meetings and all project-related decisions shall be made in those meetings, on a public mailing list, or on public issues.
 
-	-	v. Simple TOC issues may be resolved by short discussion and simple majority vote. TOC discussions may be over email or at a meeting of the TOC.
+	-	v. Simple TAC issues may be resolved by short discussion and simple majority vote. TAC discussions may be over email or at a meeting of the TAC.
 
 	-	vi. After a review of the opinions and optional virtual discussion/debate options are identified, seeking consensus and taken to vote if necessary.
 
-	-	vii. The intent is for the TOC to find a path to consensus within the TOC and community. TOC decisions at meetings meeting quorum requirements shall pass with a vote greater than 50% of TOC members present.
+	-	vii. The intent is for the TAC to find a path to consensus within the TAC and community. TAC decisions at meetings meeting quorum requirements shall pass with a vote greater than 50% of TAC members present.
 
-	-	viii. TOC meetings shall require a quorum of two-thirds of the TOC total members to take a vote or make any decision. If a TOC meeting fails to meet the quorum requirement, discussions may proceed, however there shall be no voting or decisions.
+	-	viii. TAC meetings shall require a quorum of two-thirds of the TAC total members to take a vote or make any decision. If a TAC meeting fails to meet the quorum requirement, discussions may proceed, however there shall be no voting or decisions.
 
-	-	ix. TOC decisions may be made electronically without a meeting, but to pass a vote shall require as many votes as would be needed to achieve quorum in a meeting. During an electronic vote, if any two (2) TOC members request a meeting to discuss the decision, the electronic vote in process shall end without effect, and a new vote may be initiated after the meeting to discuss the decision has completed.
+	-	ix. TAC decisions may be made electronically without a meeting, but to pass a vote shall require as many votes as would be needed to achieve quorum in a meeting. During an electronic vote, if any two (2) TAC members request a meeting to discuss the decision, the electronic vote in process shall end without effect, and a new vote may be initiated after the meeting to discuss the decision has completed.
 
--	(d) Criteria for Nomination. Nominees for the TOC shall:
+-	(d) Criteria for Nomination. Nominees for the TAC shall:
 
-	-	i. commit that they have the available bandwidth to make the time to invest in the CNCF TOC,
+	-	i. commit that they have the available bandwidth to make the time to invest in the CNCF TAC,
 
 	-	ii. demonstrate an advanced level of professional experience as engineers in the scope of CNCF,
 
-	-	iii. demonstrate seniority sufficient to access additional staff or community members to assist in their TOC preparations, and
+	-	iii. demonstrate seniority sufficient to access additional staff or community members to assist in their TAC preparations, and
     
     -   iv. operate neutrally in discussions and put the goals and success of CNCF in balance with corporate objectives or any particular project in CNCF.
 
--	(e) Process for TOC Member Nominations and Election
+-	(e) Process for TAC Member Nominations and Election
 
     -   i. Nominations: Each individual in a Selecting Group may nominate up to two (2) people, at most one (1) of whom may be from the same group of Related Companies. Each nominee must agree to participate prior to being added to the nomination list.
 
 		-	a. A nomination requires a maximum one (1) page nomination pitch which should include the nominee's name, contact information and supporting statement identifying the nominee's experience in CNCF domains.
 
-		-	b. The Governing Board shall determine the process and timeline for the nominations, qualification and election of TOC members.
+		-	b. The Governing Board shall determine the process and timeline for the nominations, qualification and election of TAC members.
 
-		-	c. A minimum of 14 calendar days shall be reserved for an Evaluation Period whereby TOC nominees may be contacted by members of the Governing Board and TOC.
+		-	c. A minimum of 14 calendar days shall be reserved for an Evaluation Period whereby TAC nominees may be contacted by members of the Governing Board and TAC.
 
-	-	ii. Qualification: After the Evaluation Period, the Governing Board and the TOC members shall vote on each nominee individually to validate that the nominee meets the qualification criteria. A valid vote shall require at least 50% participation. Nominees passing with over 50% shall be Qualified Nominees.
+	-	ii. Qualification: After the Evaluation Period, the Governing Board and the TAC members shall vote on each nominee individually to validate that the nominee meets the qualification criteria. A valid vote shall require at least 50% participation. Nominees passing with over 50% shall be Qualified Nominees.
 
-	-	iii. Elections: If the number of Qualified Nominees is equal to or less than the number of TOC seats available to be elected, the Qualified Nominees shall be approved after the nomination period has closed. If there are more Qualified Nominees than open TOC seats available for election, then the Selecting Group shall elect the TOC members via a Condorcet vote. A Condorcet vote shall be run using the Condorcet-IRV method through the Cornell online service ([*https://civs.cs.cornell.edu/*](https://civs.cs.cornell.edu/)).
+	-	iii. Elections: If the number of Qualified Nominees is equal to or less than the number of TAC seats available to be elected, the Qualified Nominees shall be approved after the nomination period has closed. If there are more Qualified Nominees than open TAC seats available for election, then the Selecting Group shall elect the TAC members via a Condorcet vote. A Condorcet vote shall be run using the Condorcet-IRV method through the Cornell online service ([*https://civs.cs.cornell.edu/*](https://civs.cs.cornell.edu/)).
 
-    -   iv. TOC-Selected Seats: TOC-Selected TOC members may nominate and qualify but not vote when their seat is up for election.
+    -   iv. TAC-Selected Seats: TAC-Selected TAC members may nominate and qualify but not vote when their seat is up for election.
 
-	-	v. Retries. If there are fewer Qualified Nominees than open TOC seats available for election by the Selecting Group, the group shall initiate another round of nominations.
+	-	v. Retries. If there are fewer Qualified Nominees than open TAC seats available for election by the Selecting Group, the group shall initiate another round of nominations.
 
 -	(f) Constraints
 
-	-	i. TOC Members shall serve two-year, staggered terms.
+	-	i. TAC Members shall serve two-year, staggered terms.
 
-	-	ii. TOC members may be removed by a two-thirds vote of the other TOC members, with the impacted individual ineligible to participate in the vote.
+	-	ii. TAC members may be removed by a two-thirds vote of the other TAC members, with the impacted individual ineligible to participate in the vote.
 
-	-	iii. Any TOC member that misses three (3) consecutive meetings shall be automatically suspended from eligibility to vote until having attended two meetings consecutively. For avoidance of doubt, the suspended TOC member shall be eligible to vote in the second consecutive meeting.
+	-	iii. Any TAC member that misses three (3) consecutive meetings shall be automatically suspended from eligibility to vote until having attended two meetings consecutively. For avoidance of doubt, the suspended TAC member shall be eligible to vote in the second consecutive meeting.
 
-	-	iv. The TOC agenda will be set by the TOC. However, it is expected that TOC discussions and decisions will cover:
+	-	iv. The TAC agenda will be set by the TAC. However, it is expected that TAC discussions and decisions will cover:
 
 		-	a. assessing technologies to include in CNCF
 
@@ -254,7 +252,7 @@ The HPSF shall be composed of Premier, General, and Associate (Academic, Non-Pro
 
 	-	i. Facilitate communication among the end user community and other governing bodies of CNCF.
 
-	-	ii. Provide advice, feedback, and recommendations to the TOC on areas of mutual concern, including the state and technical direction of the cloud native ecosystem, and identification of technical challenges and gaps.
+	-	ii. Provide advice, feedback, and recommendations to the TAC on areas of mutual concern, including the state and technical direction of the cloud native ecosystem, and identification of technical challenges and gaps.
 
 	-	iii. Improve visibility into end user adoption of CNCF projects.
 
@@ -274,7 +272,7 @@ The HPSF shall be composed of Premier, General, and Associate (Academic, Non-Pro
 
 	-	iii. at least three (3) representatives elected by the End User Participants at large. The number of at large End User Participant representatives shall generally be three (3), but may be increased either (A) by vote of the then-existing End User TAB or (B) automatically to the extent necessary to ensure the minimum size described in section 8(a) of this charter is met (given the number of Platinum, Gold, and Silver End User member representatives).
 
-	-	iv. one (1) to two (2) TOC members designated by the TOC, each of whom must be employed by an End User Participant.
+	-	iv. one (1) to two (2) TAC members designated by the TAC, each of whom must be employed by an End User Participant.
 
 	-	v. one (1) or more additional End User Participant representatives may be invited to serve on the End User TAB if approved by a majority of the then-existing members of the End User TAB.						
 
@@ -284,7 +282,7 @@ The HPSF shall be composed of Premier, General, and Associate (Academic, Non-Pro
 
 -	(e) Vacancies: In the event of a vacancy due to an End User TAB member's employer ceasing to be an End User Participant, the End User TAB shall decide when to fill the vacancy and whether to fill the vacancy by election or invitation. In the event of a vacancy due to to an individual's resignation, removal, or changing employers, the End User Participant that employed such individual at the time they were elected may designate a replacement. For the sake of continuity, in the event an individual serving on the End User TAB leaves their employer for another employer who is also an End User Participant, the remaining non-conflicted End User TAB members may, by majority vote, increase the size of the End User TAB and invite the individual to remain on the End User TAB for a duration no longer than their original term; such individual continuing to serve shall be in addition to (not in lieu of) the individual's prior employer's right to designate a replacement.
 
--	(f) Alternates: Any End User Participant with an employee serving on the End User TAB may designate an alternate who may (a) attend meetings in listen-only mode when the primary representative is present and (b) speak and vote at meetings when the primary representative is not present. The TOC may also designate an alternate (who must be employed by an End User Participant) in addition to the End User TAB member(s) the TOC appoints in accordance with Section 8(d)(iv) of this charter.
+-	(f) Alternates: Any End User Participant with an employee serving on the End User TAB may designate an alternate who may (a) attend meetings in listen-only mode when the primary representative is present and (b) speak and vote at meetings when the primary representative is not present. The TAC may also designate an alternate (who must be employed by an End User Participant) in addition to the End User TAB member(s) the TAC appoints in accordance with Section 8(d)(iv) of this charter.
 
 -	(g) Eligibility and Criteria:
 
@@ -297,13 +295,13 @@ The HPSF shall be composed of Premier, General, and Associate (Academic, Non-Pro
 
 -	(h) If the End User TAB desires, it may approve End User Groups, Special Interest Groups ("SIGs"), or subcommittees to address industry or specialized topics.
 
--	(i) The End User TAB input to the TOC shall be taken together with other input and feedback for the TOC to make decisions and plans. The recommendations are advisory only and at no point shall the recommendations of the End User TAB be used to order or direct any TOC or project participant toward any action or outcome.
+-	(i) The End User TAB input to the TAC shall be taken together with other input and feedback for the TAC to make decisions and plans. The recommendations are advisory only and at no point shall the recommendations of the End User TAB be used to order or direct any TAC or project participant toward any action or outcome.
 
 -	(j) The End User TAB may develop policies and procedures related to nominations, elections, operations, or other matters pertaining to its purpose, scope, and activities so long as such policies and procedures are consistent with this charter.
 
 ## 9. CNCF Projects
 
--	(a) It is expected that member companies, and open source community members will bring project assets to the TOC for discussion and inclusion into the CNCF. All such contributions should meet a set criteria created by the TOC and ratified by the Governing Board. The goal is to have an increasing bazaar of projects related to and that integrate with projects already accepted into the CNCF.
+-	(a) It is expected that member companies, and open source community members will bring project assets to the TAC for discussion and inclusion into the CNCF. All such contributions should meet a set criteria created by the TAC and ratified by the Governing Board. The goal is to have an increasing bazaar of projects related to and that integrate with projects already accepted into the CNCF.
 
 -	(b) Projects can be associated with the CNCF in the following 3 ways:
 
@@ -333,11 +331,11 @@ The HPSF shall be composed of Premier, General, and Associate (Academic, Non-Pro
 
 		-	c. Active development on the project or component is ideally done in the upstream community
 
--	(c) Existing open source projects should continue to run through their existing technical governance structure to maintain cohesion and velocity. Projects approved by the TOC for inclusion in the CNCF will be 'lightly' subject to the Technical Oversight Committee.
+-	(c) Existing open source projects should continue to run through their existing technical governance structure to maintain cohesion and velocity. Projects approved by the TAC for inclusion in the CNCF will be 'lightly' subject to the Technical Oversight Committee.
 
 -	(d) A standard protocol to achieve committer status shall be established across projects based on an individual's level and duration of contribution. Maintainer status is achieved through contribution to a given project over time and validation by peer committers.
 
--	(e) New open source projects initiated in CNCF shall complete a project proposal template adopted by the TOC and be approved by the TOC for inclusion in CNCF. The TOC members shall be afforded sufficient time to discuss and review new project proposals. New project proposals shall include details of the roles in the project, the governance proposed for the project and identify alignment with CNCF's role and values.
+-	(e) New open source projects initiated in CNCF shall complete a project proposal template adopted by the TAC and be approved by the TAC for inclusion in CNCF. The TAC members shall be afforded sufficient time to discuss and review new project proposals. New project proposals shall include details of the roles in the project, the governance proposed for the project and identify alignment with CNCF's role and values.
 
 ## 10. Marketing Committee
 
@@ -371,7 +369,7 @@ The HPSF shall be composed of Premier, General, and Associate (Academic, Non-Pro
 
 ## 13. Code of Conduct
 
--	(a) All participants agree to abide by The Linux Foundation Code of Conduct available at [*https://events.linuxfoundation.org/code-of-conduct*](https://events.linuxfoundation.org/code-of-conduct). The TOC may vote to adopt its own code of conduct for the CNCF community.
+-	(a) All participants agree to abide by The Linux Foundation Code of Conduct available at [*https://events.linuxfoundation.org/code-of-conduct*](https://events.linuxfoundation.org/code-of-conduct). The TAC may vote to adopt its own code of conduct for the CNCF community.
 
 ## 14. Related Companies
 
