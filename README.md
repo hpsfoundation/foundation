@@ -1,4 +1,4 @@
-# 🏛C High Performance Software Foundation Policy Repo
+# 🏛 High Performance Software Foundation Policy Repo
 
 This repo contains documents related to the operation of the
 [High Performance Software Foundation](https://hpsf.io) (HPSF).
