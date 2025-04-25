@@ -9,7 +9,7 @@ to convene within weeks. Watch this space for further developments.
 ## Governance
 
 * The [charter](charter.md) under which HPSF operates
-* The [participation agreement](cncf-membership-agreement.pdf)
+* The [participation agreement](https://github.com/hpsfoundation/foundation/blob/main/hpsf-participation-agreement.pdf)
 
 ## Coming Soon
 * A Code of Conduct is soon to be decided on by the Governing Board
