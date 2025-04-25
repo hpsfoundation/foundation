@@ -14,7 +14,7 @@ to convene within weeks. Watch this space for further developments.
     * [Membership levels and fees](charter.md#exhibit-c)
   * [Governing Board](charter.md#governing-board)
   * [Technical Advisory Council (TAC)](charter.md#technical-advisory-council)
-* [Participation agreement](cncf-membership-agreement.pdf), which members must sign.
+* [Participation agreement](https://github.com/hpsfoundation/foundation/blob/main/hpsf-participation-agreement.pdf), which members must sign.
 * [TAC Governance Repo](http://github.com/hpsfoundation/tac): the TAC maintains its
   own governance, including:
   * A [Project Lifecycle](https://github.com/hpsfoundation/tac/blob/main/lifecycle_policy.md)
