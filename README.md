@@ -8,15 +8,21 @@ to convene within weeks. Watch this space for further developments.
 
 ## Governance
 
-* The [charter](charter.md) under which HPSF operates
-* The [participation agreement](cncf-membership-agreement.pdf)
-
-## Coming Soon
-* A Code of Conduct is soon to be decided on by the Governing Board
-* An initial Technical Advisory Committee (TAC) is being established, after which a project lifecycle (with levels and
-  graduation criteria) will be developed.
-* The TAC will form a series of Working Groups (WGs) which will address technical areas
-  of interest to HPSF and collaborartions with other Linux Foundation projects.
+* [HPSF charter](charter.md), which contains the base rules under which HPSF operates.
+  See in particular:
+  * [Membership](charter.md#membership)
+    * [Membership levels and fees](charter.md#exhibit-c)
+  * [Governing Board](charter.md#governing-board)
+  * [Technical Advisory Council (TAC)](charter.md#technical-advisory-council)
+* [Participation agreement](cncf-membership-agreement.pdf), which members must sign.
+* [TAC Governance Repo](http://github.com/hpsfoundation/tac): the TAC maintains its
+  own governance, including:
+  * A [Project Lifecycle](https://github.com/hpsfoundation/tac/blob/main/lifecycle_policy.md)
+    that defines onboarding and procedures for projects, and
+  * Ongoing [Working Groups](https://github.com/hpsfoundation/tac/tree/main/working-groups)
+    that bring together community members for collaboration.
+* The Linux Foundation [Code of Conduct](https://lfprojects.org/policies/code-of-conduct/),
+  which we use in HPSF. Projects may have their own codes of conduct, as well.
 
 ## How to request changes
 
