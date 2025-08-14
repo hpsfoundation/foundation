@@ -1,7 +1,7 @@
 # The High Performance Software Foundation Charter
 
 **The Linux Foundation**
-**Effective May 13, 2024**
+**Effective July 17, 2025**
 
 ## Mission and Scope of the High Performance Software Foundation
 
@@ -125,8 +125,9 @@ including:
   and technical community;
 - approve procedures for the nomination and election of any representative of the
   General Members to the Governing Board and any Officer or other positions created by
-  the Governing Board; and
-- vote on all decisions or matters coming before the Governing Board.
+  the Governing Board;
+- vote on all decisions or matters coming before the Governing Board; and
+- unless otherwise determined by the Governing Board, TAC representatives and General Member representatives to the Governing Board will be appointed for two year terms. In the event that a representative can not complete their term, a special election may be held to elect a replacement representative to serve for the remainder of that term.
 
 ## Committees
 
@@ -168,9 +169,8 @@ Projects. The TAC will be responsible for:
 - making recommendations to the Budget Committee of resource priorities for Technical
   Projects;
 - electing annually a chairperson to preside over meetings, set the agenda for meetings,
-  ensure meeting minutes are taken and who will also serve on the Governing Board as a
-  TAC representative;
-- electing additional TAC representatives to serve on the governing board from the
+  ensure meeting minutes are taken;
+- electing TAC representatives to serve on the governing board from the
   voting members of the TAC appointed by TAC Projects; one representative is elected for
   every five Technical Projects represented on the TAC, but no more than 25% (including
   the TAC chair) of the total members of the Governing Board;
